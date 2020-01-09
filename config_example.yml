@@ -1,0 +1,17 @@
+log_path: "PrinterSwitcher_log.txt"
+printers:
+  0:
+    printerPort: "192.168.1.10"
+    networkAddress: "192.168.1.0"
+    networkMask: 24
+    networkLocation: "Location1"
+  1:
+    printerPort: "192.168.2.10"
+    networkAddress: "192.168.2.0"
+    networkMask: 24
+    networkLocation: "Location2"
+  2:
+    printerPort: "192.168.3.10"
+    networkAddress: "192.168.3.0"
+    networkMask: 24
+    networkLocation: "Location3"
