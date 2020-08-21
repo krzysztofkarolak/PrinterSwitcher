@@ -8,11 +8,8 @@ import logging
 from logging import handlers
 
 __author__ = 'Krzysztof Karolak'
-__copyright_owner__ = 'Piekarnia K. i A. Cichowscy, E. Federowicz'
 __copyright__ = '© Copyright 2020'
 __version__ = '0.1'
-__email__ = 'kkarolak@piekarniagrzybki.pl'
-__status__ = 'Testing'
 
 """
 © 2020 Piekarnia K. i A. Cichowscy, E. Federowicz
