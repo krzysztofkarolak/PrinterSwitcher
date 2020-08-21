@@ -12,8 +12,6 @@ __copyright__ = '© Copyright 2020'
 __version__ = '0.1'
 
 """
-© 2020 Piekarnia K. i A. Cichowscy, E. Federowicz
-
 Python 2.7 required
 
 - Load printers and locations from YAML configuration file.
